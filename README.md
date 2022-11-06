@@ -1,2 +1,0 @@
-
-# MER Web Site
