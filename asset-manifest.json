@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MER/static/css/main.b681aea8.css",
+    "main.js": "/MER/static/js/main.9616c2be.js",
+    "index.html": "/MER/index.html",
+    "main.b681aea8.css.map": "/MER/static/css/main.b681aea8.css.map",
+    "main.9616c2be.js.map": "/MER/static/js/main.9616c2be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b681aea8.css",
+    "static/js/main.9616c2be.js"
+  ]
+}
